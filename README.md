@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlzuhiriMohand
-- 👀 I’m interested in Computer vision, Inverse problems, Medical imaging, Pipes inspection
+- 👀 I’m interested in Computer vision, Inverse problems, Medical imaging, Pipelines inspection
 
 
 <!---
